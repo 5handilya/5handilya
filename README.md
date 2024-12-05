@@ -2,7 +2,7 @@
 hello, world!
 # Projects
 ## I. MLE
-[MNIST Number Recognition, simple Torch MLP](https://github.com/5handilya/kurrent/blob/main/kurrent-mlp-simple.py)
+[MNIST Number Recognition, Simple Torch MLP](https://github.com/5handilya/kurrent/blob/main/kurrent-mlp-simple.py)
 ## II. Simulation 
 [Solar System etc., Verlet Integration](https://github.com/5handilya/simulation/blob/main/n_body_verlet_solar_system.py)
 <!--
