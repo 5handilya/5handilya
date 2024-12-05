@@ -1,9 +1,9 @@
-### Kunal Shandilya
+# Kunal Shandilya
 hello, world!
-## Projects
-# MLE
+# Projects
+## I. MLE
 [Multi-layer perceptron, MNIST](https://github.com/5handilya/kurrent/blob/main/kurrent-mlp-simple.py)
-# Simulation 
+## II. Simulation 
 [Solar System, Verlet Integration](https://github.com/5handilya/simulation/blob/main/n_body_verlet_solar_system.py)
 <!--
 **5handilya/5handilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
