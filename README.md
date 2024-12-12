@@ -1,6 +1,6 @@
 # Kunal Shandilya
 Hello, world!
-This is a log of my excursions in computer science, a childhood passion that i now have time to revisit (this time to stay).
+This is a log of my excursions in computer science, a childhood passion that I now have time to revisit (this time to stay).
 # Projects
 ## I. MLE
 [MNIST Number Recognition, Simple Torch MLP](https://github.com/5handilya/kurrent/blob/main/kurrent-mlp-simple.py)
