@@ -12,5 +12,5 @@ This is my playtime log
 ## III. [ML Research](https://github.com/5handilya/MLR)
 1. [Heatmaps of LLM random walks with varied prompt keywords](https://github.com/5handilya/MLR/tree/main/2024-12-llm-heatmap-exp) 
 ## IV. Misc
-# Simulation
+### Simulation
 1. [Solar System To Scale, Verlet Integration](https://github.com/5handilya/simulation/blob/main/n_body_verlet_solar_system.py)
