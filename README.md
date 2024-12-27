@@ -1,6 +1,6 @@
 # Kunal Shandilya
-Hello, world!
-This is a log of my excursions in computer science, a childhood passion that I now have time to revisit (this time to stay).
+Hello, world. I love computers. This is my playtime log.
+
 # Projects
 ## I. Data Science
 1. [Kaggle Playground Series S4E12: Regression with Insurance Dataset]()
