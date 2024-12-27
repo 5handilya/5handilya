@@ -6,7 +6,7 @@ This is my playtime log
 # Projects
 ## I. [Data Science](https://github.com/5handilya/DS)
 1. [Kaggle Playground Series S4E12: Regression with Insurance Dataset](https://github.com/5handilya/DS/tree/main/2024-12-KP-S4E12-InsuranceRegression)
-## II. ML Engineering
+## II. [ML Engineering](https://github.com/5handilya/MLE)
 1. [MNIST Number Recognition, Simple Torch MLP](https://github.com/5handilya/kurrent/blob/main/kurrent-mlp-simple.py)
 2. [CIFAR CNN]()
 ## III. [ML Research](https://github.com/5handilya/MLR)
