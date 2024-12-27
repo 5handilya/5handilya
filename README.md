@@ -1,5 +1,5 @@
 # Kunal Shandilya
-Hello, world. I love computers. This is my playtime log.
+Hello, world. I 💙 computers. This is my playtime log.
 
 # Projects
 ## I. Data Science
