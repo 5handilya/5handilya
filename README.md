@@ -1,6 +1,8 @@
 # Kunal Shandilya
 Hello, world
+
 I 💙 computers
+
 This is my playtime log
 
 # Projects
