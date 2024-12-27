@@ -2,21 +2,13 @@
 Hello, world!
 This is a log of my excursions in computer science, a childhood passion that I now have time to revisit (this time to stay).
 # Projects
-## I. MLE
+## I. Data Science
+[Kaggle Playground Series S4E12: Regression with Insurance Dataset]()
+## II. ML Engineering
 [MNIST Number Recognition, Simple Torch MLP](https://github.com/5handilya/kurrent/blob/main/kurrent-mlp-simple.py)
-## II. Simulation 
+[CIFAR CNN]()
+## III. [ML Research](https://github.com/5handilya/MLR)
+[Heatmaps of LLM random walks with varied prompt keywords](https://github.com/5handilya/MLR/tree/main/2024-12-llm-heatmap-exp) 
+## IV. Misc
+# Simulation
 [Solar System To Scale, Verlet Integration](https://github.com/5handilya/simulation/blob/main/n_body_verlet_solar_system.py)
-<!--
-**5handilya/5handilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
