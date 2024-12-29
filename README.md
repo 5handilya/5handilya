@@ -5,6 +5,10 @@ I 💙 computers
 
 This is my playtime log
 
+#### Links:
+* [x](https://x.com/5handilya)
+* [blog](https://sha1512.pages.dev)
+
 # Projects
 ## I. Data Science
 1. [Kaggle Playground Series S4E12: Regression with Insurance Dataset](https://github.com/5handilya/DS/tree/main/2024-12-KP-S4E12-InsuranceRegression)
