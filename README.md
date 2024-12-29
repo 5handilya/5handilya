@@ -5,7 +5,8 @@ I 💙 computers
 
 This is my playtime log
 
-####  [x](https://x.com/5handilya)   |   [blog](https://sha1512.pages.dev)
+######  [x](https://x.com/5handilya)
+###### [blog](https://sha1512.pages.dev)
 
 # Projects
 ## I. Data Science
