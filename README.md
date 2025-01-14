@@ -8,7 +8,7 @@ Hello, world. I 💙 computers. This is my playtime log
 1. [Kaggle Playground Series S4E12: Regression with Insurance Dataset](https://github.com/5handilya/DS/tree/main/2024-12-KP-S4E12-InsuranceRegression)
 ## II. ML Engineering
 1. [MNIST Number Recognition, Simple Torch MLP](https://github.com/5handilya/kurrent/blob/main/kurrent-mlp-simple.py)
-2. [CIFAR CNN]()
+2. [Linear Regression in Assembly](https://github.com/5handilya/MLE/blob/main/linear-regression.asm)
 ## III. ML Playground
 1. [Heatmaps of LLM random walks with varied prompt keywords](https://github.com/5handilya/MLR/tree/main/2024-12-llm-heatmap-exp) 
 ## IV. Misc
